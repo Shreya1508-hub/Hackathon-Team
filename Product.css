@@ -7,7 +7,7 @@
 }
 
 body{
-    background:#f1f3f6;
+      background: linear-gradient(135deg, #ffd6e7, #d8e7ff, #fff3c4);
 }
 
 header{
@@ -192,3 +192,7 @@ footer{
     }
 }
 
+a{
+    color: #212121;
+    text-decoration: none;
+}
